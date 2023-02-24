@@ -1,0 +1,18 @@
+{
+    "loading": "Loading...",
+    "back": "Back",
+    "select_of_list": "You must select a character from the list !!",
+    "characters": "Characters",
+    "english": "English",
+    "spanish": "Spanish",
+    "request_error": "The request could not be processed",
+    "sentences_empty": "The character dont have celebs sentences",
+    "close": "Close",
+    "name": "Name",
+    "portrayed":"Portrayed",
+    "nickname":"Nickname",
+    "status":"Status",
+    "birthday":"Birthday",
+    "occupation":"Occupation"
+}
+

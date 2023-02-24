@@ -1,0 +1,17 @@
+{
+    "loading": "Cargando...",
+    "back": "Volver",
+    "select_of_list": "Debe seleccionar un personaje desde la lista!!",
+    "characters": "Personajes",
+    "english": "Inglés",
+    "spanish": "Español",
+    "request_error": "No se ha podido procesar la petición",
+    "sentences_empty": "El personaje no tiene frases célebres",
+    "close": "Cerrar",
+    "name": "Nombre",
+    "portrayed":"Interpretado",
+    "nickname":"Alias",
+    "status":"Estado",
+    "birthday":"Cumpleaños",
+    "occupation":"Ocupación"
+}
